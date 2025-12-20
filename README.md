@@ -12,7 +12,7 @@ Is maternal stress (perceived stress and/or demoralization) associated with infa
 
 ## Key Finding 
 Maternal self-efficacy as measured by positive items of PSS-10 was a significant predictor of infant MDI scores in a simple linear regression model (beta = -0.87, p = .011) and remained significant in a multiple regression model (beta = -0.84, p = .015), even after controlling for maternal education and log-transformed income per capita. 
-# because self-efficacy is reverse-scored. This means that increase in self-efficacy predicts better MDI score for infants.
+## Because self-efficacy is reverse-scored, this means that an increase in maternal self-efficacy predicts a better MDI score for infants.
 ## Go to line 137 to see the detail 
 
 ## Variable Construction 
@@ -180,6 +180,7 @@ Based on the psychometric recommendations of Koğar and Koğar (2023), a refined
 <img width="432" height="269" alt="Screenshot 2025-12-19 at 06 48 29" src="https://github.com/user-attachments/assets/b6e05406-cc69-4fe0-9a31-c02153b913db" />
 
 The graph of the simple linear regression is shown here. 
+## Because self-efficacy is reverse-scored, this means that an increase in maternal self-efficacy predicts a better MDI score for infants.
 
 <img width="540" height="416" alt="Screenshot 2025-12-19 at 06 48 59" src="https://github.com/user-attachments/assets/a573dae8-e342-48e6-919f-3aa80bce5350" />
 
