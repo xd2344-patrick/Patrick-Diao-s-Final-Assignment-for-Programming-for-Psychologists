@@ -1,6 +1,4 @@
-# Patrick-Diao-s-Final-Assignment-for-Programming-for-Psychologists
-The data used in this study comes from the Columbia Center for Children’s Environmental Health (CCCEH). It is a part of the Fairstart study. The data includes 250 participants and was collected recently within the past 5 years. Due to data access rules, this data will not be shared on GitHub. 
-
+# data analysis explanation
 Data analysis plan: 
 In the present analysis, we examine whether maternal perceived stress and demoralization are associated with infant developmental functioning, as indexed by Bayley Scale of Infant and Toddler Development scores. Maternal stress will be treated as the primary independent variable, and infant cognitive and emotional outcomes will serve as dependent variables. In this dataset, scores from two measures are used as predictors. They are the Perceived Stress Scale -14 items (PSS-14) and the Psychiatric Epidemiology Research Interview—Demoralization Scale (PERI-D). Therefore, regression will be run separately for each. 
 
